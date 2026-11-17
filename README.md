@@ -23,4 +23,4 @@ Estudante de **Engenharia de Software**, aprendendo e construindo projetos em C,
 | Pet Shop | Sistema de atendimento de pet shop: login, cadastros, serviços, produtos e comprovante | C | 🚧 Em desenvolvimento |
 
 ## 📫 Contato
-[![GitHub](https://img.shields.io/badge/GitHub-Dedz-x-181717?style=for-the-badge&logo=github)](https://github.com/Dedz-x)
+[![GitHub](https://img.shields.io/badge/GitHub-Dedz--x-181717?style=for-the-badge&logo=github)](https://github.com/Dedz-x)
