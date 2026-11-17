@@ -1,4 +1,4 @@
-# Olá, eu sou o André Felipe 👋
+# Olá, eu sou o André Felipe 
 
 Estudante de **Engenharia de Software**, aprendendo e construindo projetos em C, JavaScript e HTML.
 
