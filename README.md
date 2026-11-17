@@ -24,3 +24,5 @@ Estudante de **Engenharia de Software**, aprendendo e construindo projetos em C,
 
 ## 📫 Contato
 [![GitHub](https://img.shields.io/badge/GitHub-Dedz--x-181717?style=for-the-badge&logo=github)](https://github.com/Dedz-x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-André_Felipe-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-felipe-gon%C3%A7alves-vieira-10859b3a8/)
+
