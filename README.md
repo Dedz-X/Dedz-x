@@ -16,11 +16,6 @@ Estudante de **Engenharia de Software**, aprendendo e construindo projetos em C,
 |---|---|---|
 | [Xadrez Online](https://github.com/Dedz-x/Xadrez_Online) | Jogo de xadrez online | JavaScript |
 
-### 🎓 Faculdade
-| Projeto | Descrição | Tecnologia | Status |
-|---|---|---|---|
-| Conversor de Moedas | Conversor de moedas em terminal com validação de entrada, contador e resumo final (trabalho em grupo) | C | ✅ Concluído |
-| Pet Shop | Sistema de atendimento de pet shop: login, cadastros, serviços, produtos e comprovante | C | 🚧 Em desenvolvimento |
 
 ## 📫 Contato
 [![GitHub](https://img.shields.io/badge/GitHub-Dedz--x-181717?style=for-the-badge&logo=github)](https://github.com/Dedz-x)
